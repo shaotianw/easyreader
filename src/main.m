@@ -1,6 +1,6 @@
 #import <Cocoa/Cocoa.h>
 
-static NSString *kConfigPath = @".config/阅读隐身器/config.plist";
+static NSString *kConfigPath = @".config/隐身阅读器/config.plist";
 static NSInteger kMaxHistory = 10;
 
 @interface ReaderPanel : NSPanel @end

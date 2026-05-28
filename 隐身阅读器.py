@@ -33,7 +33,7 @@ class InvisibleReader:
         self.hide_after_id = None
 
         self.root = tk.Tk()
-        self.root.title("阅读隐身器")
+        self.root.title("隐身阅读器")
         self.root.overrideredirect(True)
         self.root.attributes('-topmost', True)
         self.root.configure(bg='black')

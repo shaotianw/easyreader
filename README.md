@@ -28,7 +28,7 @@ Download from [Releases](https://github.com/shaotianw/easyreader/releases) and m
 ```bash
 git clone https://github.com/shaotianw/easyreader.git
 cd easyreader/src
-clang -o 阅读隐身器 main.m -framework Cocoa -fobjc-arc
+clang -o 隐身阅读器 main.m -framework Cocoa -fobjc-arc
 ```
 
 ## Usage

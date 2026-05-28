@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleExecutable</key>
-    <string>阅读隐身器</string>
+    <string>隐身阅读器</string>
     <key>CFBundleName</key>
-    <string>阅读隐身器</string>
+    <string>隐身阅读器</string>
     <key>CFBundleDisplayName</key>
-    <string>阅读隐身器</string>
+    <string>隐身阅读器</string>
     <key>CFBundleIdentifier</key>
-    <string>com.invisiblereader.app</string>
+    <string>com.easyreader.app</string>
     <key>CFBundleVersion</key>
     <string>1.0</string>
     <key>CFBundlePackageType</key>
