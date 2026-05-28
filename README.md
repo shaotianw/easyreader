@@ -1,3 +1,5 @@
+[English](README_EN.md) | **简体中文**
+
 # EasyReader - 隐身阅读器
 
 ![macOS](https://img.shields.io/badge/platform-macOS-blue)
@@ -17,7 +19,6 @@
   - 背景透明度
   - 字体大小
   - 窗口宽高
-  - 行间距
 - **拖拽打开** — 拖拽 txt 文件到 app 图标直接打开
 
 ## 安装
@@ -61,6 +62,11 @@ clang -o 阅读隐身器 main.m -framework Cocoa -fobjc-arc
 
 - **原生 macOS 应用** — Objective-C + AppKit
 - **Python 备用版本** — 纯 Python/tkinter 实现
+
+## 贡献者
+
+- [shaotianw](https://github.com/shaotianw) — 开发者
+- AI 工具: **DeepSeek V4** — 代码生成与辅助开发
 
 ## 许可证
 
