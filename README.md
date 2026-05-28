@@ -54,7 +54,7 @@ clang -o 阅读隐身器 main.m -framework Cocoa -fobjc-arc
 ## Contributors
 
 - [shaotianw](https://github.com/shaotianw) — Developer
-- AI Tool: **DeepSeek V4** — Code generation and development assistance
+- AI Tool: **DeepSeek V4** — Code generation and development assistance (Co-authored)
 
 ## License
 
